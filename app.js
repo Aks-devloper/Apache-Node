@@ -22,15 +22,7 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Git Practice1');
     console.log('Git branch demo Created');
     console.log('Learning a Git Stash');
-<<<<<<< HEAD
     console.log('New Feature1 branch is created');
-    console.log('something went wrong');
     console.log('Feature1 change2');
     console.log('Feature1 change3');
 });
-=======
-    console.log('New Feature1 branch is created');	
-    console.log('Feature1 change2');
-    console.log('Feature1 change3 ');
-};
->>>>>>> d6ac470 (Added 3rdcom in feature1)
