@@ -22,4 +22,5 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Git Practice1');
     console.log('Git branch demo Created');
     console.log('Learning a Git Stash');
+    console.log('New Feature2 branch is created');
 });
