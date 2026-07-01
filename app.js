@@ -1,4 +1,4 @@
-const http = require('http');
+const http = require('http')
 
 const server = http.createServer((req, res) => {
     console.log(`Request received: ${req.url}`);
@@ -22,4 +22,5 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Git Practice1');
     console.log('Git branch demo Created');
     console.log('Learning a Git Stash');
+    console.log('New Feature3 branch is created');
 });
