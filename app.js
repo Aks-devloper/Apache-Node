@@ -22,4 +22,5 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Git Advanced Practice');
     console.log('Tracking feature added');
     console.log('Track a new concept');
+    console.log('Track 2nd concept');
 });
