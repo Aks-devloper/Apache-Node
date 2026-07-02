@@ -25,4 +25,6 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Track a new concept');
     console.log('Added a new booking feature');
     console.log('Created a booking page');
+    console.log('A quote feature is added');
+    console.log('A project Quotes are created');
 });
