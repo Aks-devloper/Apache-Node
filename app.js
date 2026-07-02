@@ -21,4 +21,5 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Node app listening on localhost:3000');
     console.log('Git Advanced Practice');
     console.log('A quote feature is added');
+    console.log('A project Quotes are created');
 });
